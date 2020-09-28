@@ -1,2 +1,2 @@
-# navegacion-astronomica
+# Navegación astronómica
 Herramientas de Navegación astronómica
